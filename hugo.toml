@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://albertosshi.github.io/my-security-blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My New Hugo Security Blog'
 theme = "hugo-theme-bootstrap"
 publishDir = "docs"
 
